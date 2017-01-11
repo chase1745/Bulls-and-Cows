@@ -1,0 +1,3 @@
+# Bulls-and-Cows
+
+Bulls and Cows is a guessing game where you try to guess a 'n' digit code. (Note: each number in the code must be distinct) When a number is guessed and a digit is in the correct location, then that is a bull. When a digit is in the number, but in the incorrect location, then that is a cow. So if a four digit code is 2894, and the user guesses 4698. Then that is "1 bull and 2 cows" because '9' is in the correct location and '4' and '8' are in the code but are currently in the wrong location. The guessing continues until the code is guessed in the correct order... "4 bulls"! Similar to the website "http://www.mathsisfun.com/games/bulls-and-cows.html"
